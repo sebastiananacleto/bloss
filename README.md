@@ -1,0 +1,2 @@
+# bloss
+Leaning process 
